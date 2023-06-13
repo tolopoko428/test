@@ -11,3 +11,11 @@ a = get_pagers('https://www.kivano.kg/mobilnye-telefony', 5)
 
 
 # ukjsagfjhkjhkj 'mnf p'nj vh    vb h =
+
+
+
+
+print('jgdjgdkjgd')
+
+
+
