@@ -56,7 +56,7 @@ def get_max_pages(url):
     container = wrap.find('div', {'class':'container'})
     print(container)
     
-    # print(itemtype)
+
 
 
 
